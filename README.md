@@ -1,5 +1,4 @@
-# Pandas
-### Documentação prática Pandas
+# Documentação prática Pandas
 #### 1. <a href="">Como ler arquivo de dados tabulares no pandas?</a>
 #### 2. <a href="">Como selecionar uma série em um DataFrame?</a>
 #### 3. <a href=""> Por que alguns comandos pandas terminam com parênteses (e outros não)?</a>
